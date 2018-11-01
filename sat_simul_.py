@@ -10,7 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import multiprocessing as mp
 import gc
-
+#using git
 
 #pool=mp.Pool(processes=2)
 #Transition frequency in MHz
